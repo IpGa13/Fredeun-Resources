@@ -1,0 +1,58 @@
+{
+  "music.wellerman": {
+    "category": "master",
+    "sounds": [ "custom/wellerman" ]
+  },
+
+
+  "music.barracuda": {
+    "category": "master",
+    "sounds": [ "custom/barracuda" ]
+  },
+
+  "music.heathens": {
+    "category": "master",
+    "sounds": [ "custom/jailtime" ]
+  },
+
+  "music.buttercup": {
+    "category": "master",
+    "sounds": [ "custom/buttercup" ]
+  },
+
+
+  "music.legendsneverdie": {
+    "category": "master",
+    "sounds": [ "custom/legends" ]
+  },
+
+  "music.rightround": {
+    "category": "master",
+    "sounds": [ "custom/rightround" ]
+  },
+
+  "audio.tour": {
+    "category": "master",
+    "sounds": [ "custom/tour" ]
+  },
+
+  "music.seeyouagain": {
+    "category": "master",
+    "sounds": [ "custom/seeya" ]
+  },
+
+  "music.dog": {
+    "category": "master",
+    "sounds": [ "custom/dog" ]
+  },
+
+  "music.deathbynanobots": {
+    "category": "master",
+    "sounds": [ "custom/nanobots" ]
+  },
+
+  "music.discoofdoom": {
+    "category": "master",
+    "sounds": [ "custom/disco" ]
+  }
+}
