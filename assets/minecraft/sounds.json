@@ -54,5 +54,20 @@
   "music.discoofdoom": {
     "category": "master",
     "sounds": [ "custom/disco" ]
+  },
+
+  "music.drunkensailor": {
+    "category": "master",
+    "sounds": [ "custom/drunkensailor" ]
+  },
+
+  "music.babyimyours": {
+    "category": "master",
+    "sounds": [ "custom/babyimyours" ]
+  },
+
+  "music.ladiesandgentlemen": {
+    "category": "master",
+    "sounds": [ "custom/babyimbassboosted" ]
   }
 }
