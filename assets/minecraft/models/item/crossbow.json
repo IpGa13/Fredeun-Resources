@@ -2,7 +2,7 @@
 	"credit": "Created by Stridey",
 	"textures": {
 		"3": "item/crossbow_standby",
-		"particle": "item/crossbow"
+		"particle": "item/crossbow_standby"
 	},
 	"elements": [
 		{
